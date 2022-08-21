@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buy-me-coffee/static/css/main.4f12795b.css",
+    "main.js": "/buy-me-coffee/static/js/main.8089a186.js",
+    "static/media/splash5.png": "/buy-me-coffee/static/media/splash5.e57823e7f45fd69f335b.png",
+    "static/media/polygonlogo.png": "/buy-me-coffee/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/buy-me-coffee/index.html",
+    "main.4f12795b.css.map": "/buy-me-coffee/static/css/main.4f12795b.css.map",
+    "main.8089a186.js.map": "/buy-me-coffee/static/js/main.8089a186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f12795b.css",
+    "static/js/main.8089a186.js"
+  ]
+}
