@@ -10,15 +10,11 @@ export default function Header() {
   
   return (
     <div className="topnav">
-  <div className="topnav-left">
+  
     <div className = "leftist">
-    <Link className="passive" to="/">Generative SVG NFTs</Link>
+    <Link className="passive" to="/">Buy Me a Coffee</Link>
     </div>
-    <div className = "left-normal">
-    <Link to="/mint">Mint</Link>
-    <Link to="/about">About</Link>
-    </div>
-  </div>
+    
   <div className="topnav-right">
     
   </div>
